@@ -10,7 +10,7 @@ Who's This Guy? 😎
 My Creations 🔥
 Here’s what I’ve been cooking:
 
-[Portfolio Website]: My own slick portfolio with dope animations and responsive design — [repo link]
+[Portfolio Website]: My own slick portfolio with dope animations and responsive design — [[repo link](https://udayrajchaudhary.com.np/)]
 [Login Page Clone]: A clean, functional login page built from scratch to flex my HTML/CSS/JS skills — [repo link]
 More epic projects in my repos—go explore!
 
