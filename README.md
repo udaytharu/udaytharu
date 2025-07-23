@@ -10,7 +10,8 @@ Who's This Guy? 😎
 My Creations 🔥
 Here’s what I’ve been cooking:
 
-[Portfolio Website](https://github.com/udaytharu/Login-form.git)]: A clean, functional login page built from scratch to flex my HTML/CSS/JS skills — [[repo link](https://github.com/udaytharu/Login-form/blob/main/)]
+My own slick portfolio with dope animations and responsive design — [[Portfolio Website](https://udayrajchaudhary.com.np/)]
+A clean, functional login page built from scratch to flex my HTML/CSS/JS skills — [[repo link](https://github.com/udaytharu/Login-form/blob/main/)]
 More epic projects in my repos—go explore!
 
 My Toolkit 🛠️
