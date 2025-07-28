@@ -2,7 +2,7 @@ Yo, What's Up? I'm Uday Tharu! 🌟
 Hey there! I'm Uday Tharu, a frontend development beast who lives for crafting slick, user-friendly websites that pop! 💻 Web dev is my jam, and I'm all about turning code into visual magic. This GitHub is my lab—packed with projects that scream creativity and code swagger.
 Who's This Guy? 😎
 
-🌍 Chillin' in Nepalgunj, Nepal.
+🌍 Chillin' in Nepal.
 ⚡️ Obsessed with frontend development and building web experiences that vibe
 🧠 Levelling up my skills in Python, HTML, CSS, and JavaScript
 📡 Hit me up at [udaytharu813@gmail.com]
